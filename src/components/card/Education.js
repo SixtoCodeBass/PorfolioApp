@@ -8,7 +8,7 @@ const Education = () => {
                     <h2 class="card-title">Education</h2>
                     <ul class="list-unstyled">
                         <li>
-                            <h6 class="fw-bold">Computer Science / University Name 2001-2004</h6>
+                            <h6 class="fw-bold">Computer Science / MIT 2001-2004</h6>
                             <p>Sed et ornare quam. Cras scelerisque ex ultricies neque sodales tristique. Phasellus
                                 mattis
                                 dui ut enim
